@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP22815
+D Single channel power distribution switch with output ovp
+$ENDCMP
+#
+$CMP ICE40UP5K-SG48ITR50
+D iCE40 UltraPlus FPGA 5K LE
+$ENDCMP
+#
+#End Doc Library

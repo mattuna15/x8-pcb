@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name x8)(type Legacy)(uri ${KIPRJMOD}/x8.lib)(options "")(descr ""))
+  (lib (name x8-rescue)(type Legacy)(uri ${KIPRJMOD}/x8-rescue.lib)(options "")(descr ""))
+)
